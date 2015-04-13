@@ -12,3 +12,12 @@ img {
 }
 
 /* Code Under This Line */
+
+.bar {
+  margin-top: 20px;
+}
+
+.center {
+  margin-top: 20px;
+  margin-left: 25%
+}

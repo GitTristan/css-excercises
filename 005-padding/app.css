@@ -20,3 +20,22 @@ section {
 }
 
 /* Code Under This Line */
+
+.foo {
+  padding: 20px;
+}
+
+.center.special {
+  padding-left: 20px;
+}
+
+.center.special-alt {
+
+  padding: 20px 50px 50px 50px;
+
+  /*padding-top: 20px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;*/
+
+}
