@@ -9,10 +9,42 @@ img {
 }
 /* Code Under This Line */
 
-/*
-  Colors:
+div {
+
+}
+
+.a {
+  width: 600px;
+  height: 200px;
+  margin: 15px;
+  background-color: #FFED5D;
+}
+
+.b {
+  width: 565px;
+  height: 150px;
+  margin: 15px;
+  background-color: #FF7050;
+}
+
+.c {
+  width: 520px;
+  height: 105px;
+  margin: 15px;
+  background-color: #222;
+}
+
+.d {
+  width: 490px;
+  height: 55px;
+  margin: 15px;
+  background-color: #7BBADE;
+}
+
+
+
+  /*Colors:
   #FFED5D
   #FF7050
   #222
-  #7BBADE
-*/
+  #7BBADE*/

@@ -14,3 +14,15 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+
+.box {
+
+  box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, .1);
+
+}
+
+.fun {
+  box-shadow: 10px 1px 8px 1px rgba(255, 0, 0, .9),
+  1px 10px 8px 1px rgba(0, 255, 0, .9),
+  -10px -10px 8px 1px rgba(0, 0, 255, .9);
+}
