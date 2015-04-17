@@ -16,12 +16,12 @@ body {
 }
 
 .sidebar {
-  width: 300px;
+  width: 30%;
   float: left;
 }
 
 .posts {
-  width: 660px;
+  width: 60%;
   float: left;
   line-height: 1.5;
 }
